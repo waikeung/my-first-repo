@@ -1,0 +1,8 @@
+﻿########################################################################################
+                                        Edit the file in the following format
+
+User A: I am trying to learn how to effectively merge the files
+User A: Hey A what are you upto. Would you like to make some changes to this file.
+User B: I am making some change too at my end and let's see how 
+User B: we are going to resolve this conflict.
+#########################  Make changes below. Do not remove the header #######################
